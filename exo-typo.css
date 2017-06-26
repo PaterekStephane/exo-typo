@@ -1,0 +1,18 @@
+h1 {
+  width: 80em;
+  font-family: 'Bebas Neue', serif;
+}
+
+.all {
+  font-family: 'Optimus Princeps', sans-serif;
+}
+
+@font-face {
+    font-family: "Bebas Neue";
+    src: url("../typo/bebas_neue/BebasNeue.otf")
+}
+
+@font-face {
+  font-family: "Optimus Princeps";
+  src: url("../typo/optimusprinceps/OptimusPrinceps.ttf")
+  }
